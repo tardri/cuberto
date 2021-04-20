@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    /* font */
+    font-family: "Averta CY", sans-serif;
+    }
+    body {
+    margin: 0;
+    }
+    
+#section-1 h2 {
+    color: cadetblue;
+    font-size: 550%;
+    text-align: left;
+}
+
+#section-2 h2 {
+    color: dimgray;
+    font-size: 350%;
+    text-align: left;
+}
+
+.column-2 img {
+    width: 100%;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+}
+
+#section-3
+
+.column-2 {
+    width: 50%;
+    float: right;
+}
+
+.column-2 img {
+    width: 100%;
+}
+
+#section-5 {
+    background-color: black;
+    color: white black;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+    background-color: black;
+    color: white;
+}
+
